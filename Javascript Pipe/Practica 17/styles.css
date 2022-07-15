@@ -1,0 +1,43 @@
+*::selection{
+    color: rgb(173, 122, 46);
+}
+body{
+    
+    background-attachment: fixed;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between; 
+ }
+ header{
+     background-color: burlywood;
+ }
+ .first_tittle{
+    margin-left:20px ;
+ }
+.div_menu{
+     display: flex;
+     text-decoration: none;
+ }
+ul li,a{
+     list-style: none;
+     text-decoration: none;
+     padding: 5px;
+ }  
+ .div_formulario{
+    margin: 15px 10px;
+ }
+
+ .nombre{
+    margin-bottom: 20px;
+ }
+ .apellido{
+    margin-bottom: 20px;
+ }
+ .button{
+    margin: 10px 2px ; 
+ }
+ .button{
+   padding: 50px;
+ }

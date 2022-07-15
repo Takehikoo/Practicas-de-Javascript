@@ -1,0 +1,20 @@
+body{
+background-color: rgb(23, 26, 26);
+background-image: url(https://revistamutaciones.com/wp-content/uploads/2017/08/over-5.jpg);
+background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+.fist_title{
+    background-color: rgb(116, 50, 50);
+    color: rgb(190, 190, 190);
+    
+    
+}
+.fist_title h2{
+    font-family: cursive;
+    font-size: 35px;
+    margin: 0px 0px;
+
+
+}
